@@ -1,0 +1,1 @@
+Code and support files used in Stepp, N. D. (2012). Emergence of anticipation at multiple time scales. University of Connecticut. and again in Stepp, N., & Turvey, M. T. (2017). Anticipation in manual tracking with multiple delays. Journal of Experimental Psychology: Human Perception and Performance, 43(5), 914.
